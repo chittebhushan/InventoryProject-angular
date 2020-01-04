@@ -1,15 +1,5 @@
 # Material Angular Dashboard
 
-Welcome to the first dark dashboard with Google Material Design and Angular!
-
-<a target="_blank" href="http://material-angular-dashboard.creativeit.io/"><img src="https://trello-attachments.s3.amazonaws.com/55f8466d8f95075bca20dd66/5bf421455ab0f05102cadac9/eee32e50e9fc278b715442a3fc6f65aa/Readme.png"/></a>
-
-Its much more fun with the [demo](http://material-angular-dashboard.creativeit.io).
-
-Material admin template is absolutely free for commercial usage theme, based on Google Material Design guidelines.
-
-> **Important**: We are still working on the project and there will be much more awesome, check out our [issues](https://github.com/CreativeIT/material-angular-dashboard/issues) to see what features are coming soon.
-
 # SETUP and USAGE
 
 The steps below will take you through cloning your own fork, installing dependencies and building:
